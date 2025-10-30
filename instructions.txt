@@ -1,0 +1,18 @@
+Hello there!
+Here are the customization options available to anyone:
+
+=======
+
+1. Color of the gradient on the realm join screen.
+
+2. The realm title logo on the realm join screen.
+
+3. The in-game logo with your own custom realm join logo.
+
+4. The custom painting only admins can place.
+
+5. All the dimension background images.
+
+=======
+
+If you want this done, you can contact "maragi.developments" on Discord to help you set this up and customize your addon.

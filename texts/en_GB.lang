@@ -1,0 +1,11 @@
+item.spawn_egg.entity.are:floating_text.name=Floating Text
+item.spawn_egg.entity.are:custom_painting.name=Custom Painting
+
+item.are:currency=§eCurrency
+
+tile.are:super_deny.name=Super Deny
+tile.are:ultra_deny.name=Ultra Deny
+tile.are:hyper_deny.name=Hyper Deny
+
+commands.kick.success.reason=%2$s
+commands.kick.success.reasonedu=%2$s
